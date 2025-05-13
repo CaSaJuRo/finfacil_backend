@@ -5,8 +5,4 @@ Backend para la gestión de usuarios en una fintech, con autenticación JWT y bu
 
 ## Instalación
 
-## Scripts de Ejecución
 
-Ejecuta estos comandos en la terminal para iniciar el backend:
-
-### **Instalar dependencias**
